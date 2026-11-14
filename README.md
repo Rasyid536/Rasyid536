@@ -5,14 +5,6 @@
 
 </div>
 
----
-
-### 👨‍💻 Tentang Saya
-
-Saya fokus mengembangkan perangkat lunak dengan performa tinggi, arsitektur berbasis data (*Data-Oriented Design*), dan eksplorasi pemrograman tingkat rendah (*low-level programming*).
-
-- 🔭 **Sedang dikerjakan:** Membangun custom 2D game engine dan eksperimen grafika komputer.
-- 🌱 **Sedang didalami:** Emulator architecture, shaders, dan manajemen memori manual.
 
 ---
 
@@ -25,10 +17,13 @@ Saya fokus mengembangkan perangkat lunak dengan performa tinggi, arsitektur berb
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Zig" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
 </p>
 
 **Graphics, Engines & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=raylib&logoColor=white" alt="Raylib" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine" />
