@@ -80,3 +80,9 @@ Well, i like C, i like low level programming in general, tho i still kinda new w
   <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=raylib&logoColor=white" alt="Raylib" />
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine" />
+
+**Activity**
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
