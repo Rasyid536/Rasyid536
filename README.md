@@ -1,4 +1,4 @@
-<div align="center">                                                                                                                                                                     
+<div align="center">                                                                                                                          
                                                                                                                                                                                                        
                                                                           :=******:                                                        
                                                                     :#%##################:                                                 
@@ -44,14 +44,16 @@
                                                    :%%%%%%%%###########%##%#####%#####*#*#########-          .%%%%%%%*                     
                                                     +%%%%%%%%%##########%#%####%##%######%########          :%%%%%%%%                      
                                                      #%%%%%%%%%%########%#%####%####%#=##%%######+         .%%%%%%%@                       
-                                                     -########%%#########%#####%###%*%:%*##%#####          %%%%%%%%     
-                                                               # SUP DAWG
-                                                                                                                                                                                                                   
+                                                     -########%%#########%#####%###%*%:%*##%#####          %%%%%%%%       
 
   **Game Developer • Systems Programmer • Low-Level Enthusiast**
 
 </div>
 
+---
+### me?
+
+Well, i like C, i like low level programming in general, tho i still kinda new with it. I love playing game and developing it.
 
 ---
 
